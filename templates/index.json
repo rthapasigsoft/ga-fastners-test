@@ -1,0 +1,399 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/home-banner_f8af5895-7ac2-4784-acfc-8017dd9dc140.png",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "166130260488baa463": {
+      "type": "collection-list",
+      "blocks": {
+        "166130260487101292-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gulf-western-oil"
+          }
+        },
+        "166130260487101292-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "suttons-tool"
+          }
+        },
+        "166130260487101292-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gear-wrench"
+          }
+        },
+        "696dd3c3-2518-41ac-839b-611e17fdc324": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "166130260487101292-0",
+        "166130260487101292-1",
+        "166130260487101292-2",
+        "696dd3c3-2518-41ac-839b-611e17fdc324"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collage": {
+      "type": "collage",
+      "blocks": {
+        "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "gulf-western-oil"
+          }
+        },
+        "8a55f98c-23c8-4137-b4bb-690e1b3f0ec2": {
+          "type": "collection",
+          "settings": {
+            "collection": "suttons-tool"
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "gear-wrench"
+          }
+        }
+      },
+      "block_order": [
+        "collection-0",
+        "8a55f98c-23c8-4137-b4bb-690e1b3f0ec2",
+        "collection-1"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ship-icon-myiconfinder-677203.png",
+            "title": "FREE SHIPPING",
+            "text": "<p>ON ORDER OVER $100<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/40578885-e3bf4e8e-6139-11e8-8be4-92fc3149f6f0.jpg",
+            "title": "GET SUPPORT",
+            "text": "<p>NOT SURE? ASK<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/piggy-saving-icon.png",
+            "title": "$ BIG SAVINGS",
+            "text": "<p>GB REWARDS<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "41e81ec0-b87e-4f93-9836-00fa43063ea6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fast_online_payment_icon_181872.png",
+            "title": "ONLINE PAYMENT",
+            "text": "<p>SAFE & SECURE<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3",
+        "41e81ec0-b87e-4f93-9836-00fa43063ea6"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16613030827e312805": {
+      "type": "rich-text",
+      "blocks": {
+        "1661303082206ac1b5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>BROWSE CATEGORIES<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1661303082206ac1b5-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16613024071eb1740d": {
+      "type": "collection-list",
+      "blocks": {
+        "1661302407dae35625-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bosch-power"
+          }
+        },
+        "1661302407dae35625-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cordless-power"
+          }
+        },
+        "1661302407dae35625-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cutter"
+          }
+        },
+        "a311972f-f558-473f-8785-a7dcad8751f4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "air-tools"
+          }
+        }
+      },
+      "block_order": [
+        "1661302407dae35625-0",
+        "1661302407dae35625-1",
+        "1661302407dae35625-2",
+        "a311972f-f558-473f-8785-a7dcad8751f4"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>TRENDING PRODUCTS<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "ffda6650-346e-4ca1-8c7d-093cd67afc30": {
+          "type": "button",
+          "settings": {
+            "button_label": "NEW PRODUCTS",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "4f55c275-331e-4e7e-b707-1fa5d2fc121d": {
+          "type": "button",
+          "settings": {
+            "button_label": "FEATURED",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "ffda6650-346e-4ca1-8c7d-093cd67afc30",
+        "4f55c275-331e-4e7e-b707-1fa5d2fc121d"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "166130435577950bd3": {
+      "type": "newsletter",
+      "blocks": {
+        "166130435566d37801-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "SIGN UP FOR NEWSLETTER",
+            "heading_size": "h1"
+          }
+        },
+        "166130435566d37801-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>BE KEPT IN THE LOOP ON THE LATEST DEALS & COMPS<\/p>"
+          }
+        },
+        "166130435566d37801-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "166130435566d37801-0",
+        "166130435566d37801-1",
+        "166130435566d37801-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "166130260488baa463",
+    "collage",
+    "multicolumn",
+    "16613030827e312805",
+    "16613024071eb1740d",
+    "rich_text",
+    "featured_collection",
+    "166130435577950bd3"
+  ]
+}
