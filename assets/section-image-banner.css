@@ -436,3 +436,13 @@
 .banner__box > * + .banner__buttons {
   margin-top: 2rem;
 }
+
+/* SigSoft Custom Css */
+.banner__buttons {
+  float: left;
+}
+@media screen and (min-width: 750px) {
+  .banner__content {
+    padding: 8rem 0;
+  }
+}
