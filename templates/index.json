@@ -1,3 +1,4 @@
+
 {
   "sections": {
     "image_banner": {
@@ -269,13 +270,25 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "4f55c275-331e-4e7e-b707-1fa5d2fc122d": {
+          "type": "button",
+          "settings": {
+            "button_label": "BEST SELLER",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "heading",
         "text",
         "ffda6650-346e-4ca1-8c7d-093cd67afc30",
-        "4f55c275-331e-4e7e-b707-1fa5d2fc121d"
+        "4f55c275-331e-4e7e-b707-1fa5d2fc121d",
+        "4f55c275-331e-4e7e-b707-1fa5d2fc122d"
       ],
       "settings": {
         "desktop_content_position": "center",
